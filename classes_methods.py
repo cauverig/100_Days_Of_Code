@@ -11,6 +11,9 @@ class User:
         print(f"Hi {self.first_name}!")
 
 user1 = User('Rakesh', 'Shah')
+print(f"User 1's first name is {user1.first_name}")
+print(f"User 1's last name is {user1.last_name}")
+
 user1.describe_user()
 user1.greet_user()
 
