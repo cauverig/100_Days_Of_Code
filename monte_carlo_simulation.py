@@ -1,6 +1,8 @@
-from random import randint
+from random import randint #randint to randomly pick a number
 trials = 100000
 success = 0
+
+# repeated random sampling
 
 for trial in range(trials):
     faces = set()
