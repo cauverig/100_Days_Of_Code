@@ -4,5 +4,6 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/CalculatorLibrary" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/CalculatorLibrary/CalculatorLibrary" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/leetcode" vcs="Git" />
   </component>
 </project>
